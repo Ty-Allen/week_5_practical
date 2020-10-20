@@ -1,12 +1,12 @@
-#Week 5 Practical Build
+# Week 5 Practical Build
 
 Practice build for week 5 in MMED-1054 
 
-##Installation
+## Installation
 
 Download the project into your preferred project location and run it.
 
-##MIT License
+## MIT License
 
 Copyright 2020 Tyler Allen
 
